@@ -26,7 +26,7 @@ Create an application that can be used to write and save notes.
 
 ## Installation
 
-To access the application, launch the URL [here](https://radiant-earth-30622.herokuapp.com/notes)
+To access the application, launch the URL [here](https://radiant-earth-30622.herokuapp.com)
 
 ## Usage
 
@@ -41,7 +41,7 @@ No testing information available for this application.
 
 ## Deployed
 
-- [The URL of the functional, deployed application](https://radiant-earth-30622.herokuapp.com/notes)
+- [The URL of the functional, deployed application](https://radiant-earth-30622.herokuapp.com)
 - [GitHub Repository](https://github.com/Jeff-T-Schmidt/note-taker)
 
 ## Screenshot of the deployed application
